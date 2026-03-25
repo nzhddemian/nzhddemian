@@ -1,16 +1,15 @@
-## Hi there 👋
+# Demian Nezhdanov
 
-<!--
-**nzhddemian/nzhddemian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile / Graphics Engineer 🥷  
+Real-time systems, interactive visuals
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- GPU-driven systems (Metal / shaders)
+- real-time interaction
+- generative visual structures
+- audio ↔ visual pipelines
+
+---
